@@ -1,4 +1,4 @@
-# express-note-taker
+# Express Note Taker
 ## Description
 
 The Note Taker is a simple yet powerful web application designed to assist small business owners in organizing their thoughts and managing tasks efficiently. This user-friendly tool allows users to create, save, and manage notes effortlessly
