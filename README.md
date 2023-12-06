@@ -14,23 +14,18 @@ The Note Taker is a simple yet powerful web application designed to assist small
 
 ## Installation
 
-n/a
+node, express, fs, util
 
 ## Usage
 
-n/a
+![Homepage](./public/assets/images/Screenshot%202023-12-06%20at%2011.09.02 AM.png);
+![Saved Note](./public/assets/images/Screenshot%202023-12-06%20at%2011.09.43 AM.png);
+![Edit/Clear Note](./public/assets/images/Screenshot%202023-12-06%20at%2011.09.51 AM.png);
+![Delete Note](./public/assets/images/Screenshot%202023-12-06%20at%2011.10.00 AM.png);
 
 ## License
 
 None
-
-## Contributing
-
-n/a
-
-## Tests
-
-n/a
 
 ## Questions
 
