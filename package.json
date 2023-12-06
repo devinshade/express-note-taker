@@ -1,0 +1,21 @@
+{
+  "name": "express-note-taker",
+  "version": "1.0.0",
+  "description": "The Note Taker is a simple yet powerful web application designed to assist small business owners in organizing their thoughts and managing tasks efficiently. This user-friendly tool allows users to create, save, and manage notes effortlessly",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "watch": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
